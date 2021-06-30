@@ -1,0 +1,25 @@
+.nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 2rem 0;
+}
+
+.logo {
+	width: 100%;
+}
+
+.navbar {
+	display: flex;
+	margin-right: 1rem;
+}
+
+.list {
+	list-style-type: none;
+}
+
+.link {
+	font-weight: bold;
+	text-decoration: none;
+	text-transform: uppercase;
+}

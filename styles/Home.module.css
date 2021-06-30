@@ -1,0 +1,38 @@
+.mainSection {
+	position: relative;
+}
+
+.textBlock {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 50vw;
+	transform: translate(-50%, -50%);
+	background-color: hsla(0, 0%, 0%, 0.3);
+	color: white;
+	padding: 3rem 2rem;
+	text-align: center;
+}
+
+.button {
+	box-shadow: 0px 10px 14px -7px rgb(253, 97, 73);
+	background-color: rgb(252, 61, 33);
+	border-radius: 8px;
+	display: inline-block;
+	cursor: pointer;
+	margin-top: 2rem;
+	color: #ffffff;
+	font-weight: bold;
+	padding: 13px 32px;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-shadow: 0px 1px 0px rgb(252, 61, 33);
+}
+
+.button:hover {
+	background-color: rgb(252, 93, 69);
+}
+.button:active {
+	position: relative;
+	top: 1px;
+}

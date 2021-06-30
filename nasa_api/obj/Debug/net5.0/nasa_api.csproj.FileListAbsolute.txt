@@ -1,0 +1,173 @@
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/appsettings.json
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/nasa_api.exe
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/nasa_api.deps.json
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/nasa_api.runtimeconfig.json
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/nasa_api.runtimeconfig.dev.json
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/nasa_api.dll
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/ref/nasa_api.dll
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/nasa_api.pdb
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/obj/Debug/net5.0/nasa_api.csprojAssemblyReference.cache
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/obj/Debug/net5.0/nasa_api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/obj/Debug/net5.0/nasa_api.AssemblyInfoInputs.cache
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/obj/Debug/net5.0/nasa_api.AssemblyInfo.cs
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/obj/Debug/net5.0/nasa_api.csproj.CoreCompileInputs.cache
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/obj/Debug/net5.0/nasa_api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/obj/Debug/net5.0/nasa_api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/obj/Debug/net5.0/staticwebassets/nasa_api.StaticWebAssets.Manifest.cache
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/obj/Debug/net5.0/staticwebassets/nasa_api.StaticWebAssets.xml
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/obj/Debug/net5.0/scopedcss/bundle/nasa_api.styles.css
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/obj/Debug/net5.0/nasa_api.RazorTargetAssemblyInfo.cache
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/obj/Debug/net5.0/nasa_api.csproj.CopyComplete
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/obj/Debug/net5.0/nasa_api.dll
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/obj/Debug/net5.0/ref/nasa_api.dll
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/obj/Debug/net5.0/nasa_api.pdb
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/obj/Debug/net5.0/nasa_api.genruntimeconfig.cache
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/maja_/Desktop/Code/react/my-app/nasa_api/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/appsettings.json
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/nasa_api.exe
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/nasa_api.deps.json
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/nasa_api.runtimeconfig.json
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/nasa_api.runtimeconfig.dev.json
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/nasa_api.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/ref/nasa_api.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/nasa_api.pdb
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/obj/Debug/net5.0/nasa_api.csprojAssemblyReference.cache
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/obj/Debug/net5.0/nasa_api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/obj/Debug/net5.0/nasa_api.AssemblyInfoInputs.cache
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/obj/Debug/net5.0/nasa_api.AssemblyInfo.cs
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/obj/Debug/net5.0/nasa_api.csproj.CoreCompileInputs.cache
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/obj/Debug/net5.0/nasa_api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/obj/Debug/net5.0/nasa_api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/obj/Debug/net5.0/staticwebassets/nasa_api.StaticWebAssets.Manifest.cache
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/obj/Debug/net5.0/staticwebassets/nasa_api.StaticWebAssets.xml
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/obj/Debug/net5.0/scopedcss/bundle/nasa_api.styles.css
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/obj/Debug/net5.0/nasa_api.RazorTargetAssemblyInfo.cache
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/obj/Debug/net5.0/nasa_api.csproj.CopyComplete
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/obj/Debug/net5.0/nasa_api.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/obj/Debug/net5.0/ref/nasa_api.dll
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/obj/Debug/net5.0/nasa_api.pdb
+C:/Users/maja_/Desktop/Code/React/nasa-rover-gallery/nasa_api/obj/Debug/net5.0/nasa_api.genruntimeconfig.cache
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/appsettings.Development.json
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/appsettings.json
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/nasa_api.deps.json
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/nasa_api.runtimeconfig.json
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/nasa_api.runtimeconfig.dev.json
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/nasa_api.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/ref/nasa_api.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/nasa_api.pdb
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/obj/Debug/net5.0/nasa_api.csprojAssemblyReference.cache
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/obj/Debug/net5.0/nasa_api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/obj/Debug/net5.0/nasa_api.AssemblyInfoInputs.cache
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/obj/Debug/net5.0/nasa_api.AssemblyInfo.cs
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/obj/Debug/net5.0/nasa_api.csproj.CoreCompileInputs.cache
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/obj/Debug/net5.0/nasa_api.MvcApplicationPartsAssemblyInfo.cs
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/obj/Debug/net5.0/nasa_api.MvcApplicationPartsAssemblyInfo.cache
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/obj/Debug/net5.0/staticwebassets/nasa_api.StaticWebAssets.Manifest.cache
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/obj/Debug/net5.0/staticwebassets/nasa_api.StaticWebAssets.xml
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/obj/Debug/net5.0/scopedcss/bundle/nasa_api.styles.css
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/obj/Debug/net5.0/nasa_api.RazorTargetAssemblyInfo.cache
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/obj/Debug/net5.0/nasa_api.csproj.CopyComplete
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/obj/Debug/net5.0/nasa_api.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/obj/Debug/net5.0/ref/nasa_api.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/obj/Debug/net5.0/nasa_api.pdb
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/obj/Debug/net5.0/nasa_api.genruntimeconfig.cache
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/AutoMapper.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/Crymeat/Desktop/Code/skolan/c#/inlämningar/en-komplett-webbapplikation-devpaps/nasa_api/bin/Debug/net5.0/Dapper.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\appsettings.json
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\nasa_api.exe
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\nasa_api.deps.json
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\nasa_api.runtimeconfig.json
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\nasa_api.runtimeconfig.dev.json
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\nasa_api.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\ref\nasa_api.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\nasa_api.pdb
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\Dapper.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\obj\Debug\net5.0\nasa_api.csprojAssemblyReference.cache
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\obj\Debug\net5.0\nasa_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\obj\Debug\net5.0\nasa_api.AssemblyInfoInputs.cache
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\obj\Debug\net5.0\nasa_api.AssemblyInfo.cs
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\obj\Debug\net5.0\nasa_api.csproj.CoreCompileInputs.cache
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\obj\Debug\net5.0\nasa_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\obj\Debug\net5.0\nasa_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\obj\Debug\net5.0\staticwebassets\nasa_api.StaticWebAssets.Manifest.cache
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\obj\Debug\net5.0\staticwebassets\nasa_api.StaticWebAssets.xml
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\obj\Debug\net5.0\scopedcss\bundle\nasa_api.styles.css
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\obj\Debug\net5.0\nasa_api.RazorTargetAssemblyInfo.cache
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\obj\Debug\net5.0\nasa_api.csproj.CopyComplete
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\obj\Debug\net5.0\nasa_api.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\obj\Debug\net5.0\ref\nasa_api.dll
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\obj\Debug\net5.0\nasa_api.pdb
+C:\Users\maja_\Desktop\Ny mapp\en-komplett-webbapplikation-devpaps-main\nasa_api\obj\Debug\net5.0\nasa_api.genruntimeconfig.cache

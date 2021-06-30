@@ -1,0 +1,11 @@
+.roverImages {
+	margin: 3rem 0;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(345px, 1fr));
+	grid-gap: 1rem;
+	justify-items: center;
+}
+
+.imageNotFound {
+	margin: 3rem 0;
+}

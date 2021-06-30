@@ -1,0 +1,53 @@
+.header {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 50vh;
+	color: #fff;
+	text-align: center;
+}
+
+.infoStart {
+	margin: 8rem 0 0;
+	color: #f1f1f1;
+}
+
+.info {
+	margin: 2rem 0 5rem;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(345px, 1fr));
+	grid-gap: 2rem;
+}
+
+.infoImage {
+	align-self: center;
+}
+
+.infoImageText {
+	/* 	filter: drop-shadow(1px 1px 1px rgb(255, 255, 255)); */
+	color: #f1f1f1;
+}
+
+.ImageText {
+	margin-bottom: 2rem;
+}
+
+.headerRovers {
+	margin: 15rem 0 15rem;
+}
+
+.headerRovers h1 {
+	color: rgb(252, 61, 33);
+	margin-bottom: 1rem;
+}
+
+.rovers {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+	grid-gap: 2rem;
+}
+
+.roversNames {
+	font-weight: bold;
+}
